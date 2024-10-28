@@ -1,4 +1,4 @@
-"""Tests for SOC automation tests."""
+"""Tests for incident response tests."""
 import pytest
 
 def test_basic():
