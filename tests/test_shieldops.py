@@ -1,4 +1,4 @@
-"""Tests for incident response tests."""
+"""Tests for integration tests."""
 import pytest
 
 def test_basic():
